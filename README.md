@@ -59,6 +59,7 @@ Happy coding!
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1677-matrix-diagonal-sum](https://github.com/DakshVR/DS-Algo/tree/master/1677-matrix-diagonal-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Math
 |  |
@@ -72,4 +73,8 @@ Happy coding!
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/DakshVR/DS-Algo/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
