@@ -78,4 +78,8 @@ Happy coding!
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/DakshVR/DS-Algo/tree/master/1677-matrix-diagonal-sum) |
+## String
+|  |
+| ------- |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DakshVR/DS-Algo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 <!---LeetCode Topics End-->
