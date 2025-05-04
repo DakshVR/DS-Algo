@@ -62,6 +62,7 @@ Happy coding!
 | [1677-matrix-diagonal-sum](https://github.com/DakshVR/DS-Algo/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DakshVR/DS-Algo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/DakshVR/DS-Algo/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Happy coding!
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/DakshVR/DS-Algo/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
