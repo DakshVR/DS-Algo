@@ -84,9 +84,22 @@ Happy coding!
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DakshVR/DS-Algo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DakshVR/DS-Algo/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
