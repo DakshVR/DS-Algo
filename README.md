@@ -59,6 +59,7 @@ Happy coding!
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/DakshVR/DS-Algo/tree/master/0830-largest-triangle-area) |
+| [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1677-matrix-diagonal-sum](https://github.com/DakshVR/DS-Algo/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DakshVR/DS-Algo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -91,6 +92,7 @@ Happy coding!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+| [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DakshVR/DS-Algo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Bit Manipulation
 |  |
@@ -100,6 +102,7 @@ Happy coding!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+| [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 ## Two Pointers
 |  |
 | ------- |
