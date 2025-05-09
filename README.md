@@ -58,6 +58,7 @@ Happy coding!
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
 | [0830-largest-triangle-area](https://github.com/DakshVR/DS-Algo/tree/master/0830-largest-triangle-area) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -83,6 +84,7 @@ Happy coding!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Matrix
 |  |
@@ -124,5 +126,6 @@ Happy coding!
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DakshVR/DS-Algo/tree/master/2042-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
