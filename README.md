@@ -69,6 +69,7 @@ Happy coding!
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DakshVR/DS-Algo/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/DakshVR/DS-Algo/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/DakshVR/DS-Algo/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
 |  |
 | ------- |
@@ -101,11 +102,13 @@ Happy coding!
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DakshVR/DS-Algo/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/DakshVR/DS-Algo/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/DakshVR/DS-Algo/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Two Pointers
 |  |
 | ------- |
