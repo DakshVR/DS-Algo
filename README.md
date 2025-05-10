@@ -60,6 +60,7 @@ Happy coding!
 | ------- |
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
 | [0830-largest-triangle-area](https://github.com/DakshVR/DS-Algo/tree/master/0830-largest-triangle-area) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1677-matrix-diagonal-sum](https://github.com/DakshVR/DS-Algo/tree/master/1677-matrix-diagonal-sum) |
@@ -96,6 +97,7 @@ Happy coding!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DakshVR/DS-Algo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Bit Manipulation
@@ -107,6 +109,7 @@ Happy coding!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/DakshVR/DS-Algo/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Two Pointers
@@ -130,5 +133,6 @@ Happy coding!
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DakshVR/DS-Algo/tree/master/2042-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
