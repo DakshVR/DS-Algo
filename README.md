@@ -72,6 +72,7 @@ Happy coding!
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/DakshVR/DS-Algo/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/DakshVR/DS-Algo/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3723-sum-of-good-numbers](https://github.com/DakshVR/DS-Algo/tree/master/3723-sum-of-good-numbers) |
 ## Math
 |  |
 | ------- |
