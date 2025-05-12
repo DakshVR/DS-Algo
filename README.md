@@ -78,11 +78,13 @@ Happy coding!
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DakshVR/DS-Algo/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0830-largest-triangle-area](https://github.com/DakshVR/DS-Algo/tree/master/0830-largest-triangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DakshVR/DS-Algo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3336-water-bottles-ii](https://github.com/DakshVR/DS-Algo/tree/master/3336-water-bottles-ii) |
 ## Greedy
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DakshVR/DS-Algo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/DakshVR/DS-Algo/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 ## Heap (Priority Queue)
 |  |
@@ -136,4 +138,5 @@ Happy coding!
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DakshVR/DS-Algo/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DakshVR/DS-Algo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
