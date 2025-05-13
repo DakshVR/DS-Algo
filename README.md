@@ -64,6 +64,7 @@ Happy coding!
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [1293-three-consecutive-odds](https://github.com/DakshVR/DS-Algo/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshVR/DS-Algo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1677-matrix-diagonal-sum](https://github.com/DakshVR/DS-Algo/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DakshVR/DS-Algo/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/DakshVR/DS-Algo/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -128,6 +129,7 @@ Happy coding!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshVR/DS-Algo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Geometry
 |  |
 | ------- |
@@ -148,4 +150,8 @@ Happy coding!
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/DakshVR/DS-Algo/tree/master/2215-finding-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshVR/DS-Algo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
