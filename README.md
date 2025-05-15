@@ -107,6 +107,7 @@ Happy coding!
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/DakshVR/DS-Algo/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1666-make-the-string-great](https://github.com/DakshVR/DS-Algo/tree/master/1666-make-the-string-great) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DakshVR/DS-Algo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Bit Manipulation
 |  |
@@ -163,6 +164,7 @@ Happy coding!
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/DakshVR/DS-Algo/tree/master/0456-132-pattern) |
+| [1666-make-the-string-great](https://github.com/DakshVR/DS-Algo/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
