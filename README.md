@@ -59,6 +59,7 @@ Happy coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DakshVR/DS-Algo/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/DakshVR/DS-Algo/tree/master/0238-product-of-array-except-self) |
 | [0456-132-pattern](https://github.com/DakshVR/DS-Algo/tree/master/0456-132-pattern) |
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
 | [0830-largest-triangle-area](https://github.com/DakshVR/DS-Algo/tree/master/0830-largest-triangle-area) |
@@ -157,6 +158,7 @@ Happy coding!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/DakshVR/DS-Algo/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshVR/DS-Algo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
