@@ -110,6 +110,7 @@ Happy coding!
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/DakshVR/DS-Algo/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1666-make-the-string-great](https://github.com/DakshVR/DS-Algo/tree/master/1666-make-the-string-great) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/DakshVR/DS-Algo/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DakshVR/DS-Algo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Bit Manipulation
 |  |
@@ -124,6 +125,7 @@ Happy coding!
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DakshVR/DS-Algo/tree/master/2215-finding-3-digit-even-numbers) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/DakshVR/DS-Algo/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/DakshVR/DS-Algo/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Two Pointers
 |  |
@@ -177,4 +179,8 @@ Happy coding!
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/DakshVR/DS-Algo/tree/master/0456-132-pattern) |
+## Counting
+|  |
+| ------- |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/DakshVR/DS-Algo/tree/master/2532-remove-letter-to-equalize-frequency) |
 <!---LeetCode Topics End-->
