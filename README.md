@@ -84,6 +84,7 @@ Happy coding!
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DakshVR/DS-Algo/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0830-largest-triangle-area](https://github.com/DakshVR/DS-Algo/tree/master/0830-largest-triangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DakshVR/DS-Algo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DakshVR/DS-Algo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3336-water-bottles-ii](https://github.com/DakshVR/DS-Algo/tree/master/3336-water-bottles-ii) |
 ## Greedy
