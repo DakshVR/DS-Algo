@@ -81,6 +81,7 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DakshVR/DS-Algo/tree/master/0002-add-two-numbers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DakshVR/DS-Algo/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0830-largest-triangle-area](https://github.com/DakshVR/DS-Algo/tree/master/0830-largest-triangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -196,4 +197,12 @@ Happy coding!
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/DakshVR/DS-Algo/tree/master/0110-balanced-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DakshVR/DS-Algo/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DakshVR/DS-Algo/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
