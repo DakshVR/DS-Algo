@@ -134,6 +134,7 @@ Happy coding!
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DakshVR/DS-Algo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DakshVR/DS-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DakshVR/DS-Algo/tree/master/0125-valid-palindrome) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/DakshVR/DS-Algo/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -206,6 +207,7 @@ Happy coding!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DakshVR/DS-Algo/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DakshVR/DS-Algo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/DakshVR/DS-Algo/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
