@@ -66,6 +66,7 @@ Happy coding!
 | [0830-largest-triangle-area](https://github.com/DakshVR/DS-Algo/tree/master/0830-largest-triangle-area) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
+| [1127-last-stone-weight](https://github.com/DakshVR/DS-Algo/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/DakshVR/DS-Algo/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshVR/DS-Algo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -101,6 +102,7 @@ Happy coding!
 | ------- |
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshVR/DS-Algo/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/DakshVR/DS-Algo/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Matrix
 |  |
