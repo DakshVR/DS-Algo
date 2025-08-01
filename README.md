@@ -136,6 +136,7 @@ Happy coding!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DakshVR/DS-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DakshVR/DS-Algo/tree/master/0125-valid-palindrome) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/DakshVR/DS-Algo/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
 | [1972-rotating-the-box](https://github.com/DakshVR/DS-Algo/tree/master/1972-rotating-the-box) |
 ## Sliding Window
@@ -205,6 +206,7 @@ Happy coding!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DakshVR/DS-Algo/tree/master/0002-add-two-numbers) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/DakshVR/DS-Algo/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
