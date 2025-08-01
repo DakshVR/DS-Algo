@@ -59,6 +59,7 @@ Happy coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DakshVR/DS-Algo/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DakshVR/DS-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/DakshVR/DS-Algo/tree/master/0238-product-of-array-except-self) |
 | [0456-132-pattern](https://github.com/DakshVR/DS-Algo/tree/master/0456-132-pattern) |
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
@@ -132,6 +133,7 @@ Happy coding!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DakshVR/DS-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
 | [1972-rotating-the-box](https://github.com/DakshVR/DS-Algo/tree/master/1972-rotating-the-box) |
 ## Sliding Window
