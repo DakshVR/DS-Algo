@@ -78,6 +78,7 @@ Happy coding!
 | [2215-finding-3-digit-even-numbers](https://github.com/DakshVR/DS-Algo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/DakshVR/DS-Algo/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/DakshVR/DS-Algo/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3533-snake-in-matrix](https://github.com/DakshVR/DS-Algo/tree/master/3533-snake-in-matrix) |
 | [3723-sum-of-good-numbers](https://github.com/DakshVR/DS-Algo/tree/master/3723-sum-of-good-numbers) |
 ## Math
 |  |
@@ -116,6 +117,7 @@ Happy coding!
 | [1666-make-the-string-great](https://github.com/DakshVR/DS-Algo/tree/master/1666-make-the-string-great) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/DakshVR/DS-Algo/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DakshVR/DS-Algo/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3533-snake-in-matrix](https://github.com/DakshVR/DS-Algo/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Happy coding!
 |  |
 | ------- |
 | [3336-water-bottles-ii](https://github.com/DakshVR/DS-Algo/tree/master/3336-water-bottles-ii) |
+| [3533-snake-in-matrix](https://github.com/DakshVR/DS-Algo/tree/master/3533-snake-in-matrix) |
 ## Sorting
 |  |
 | ------- |
