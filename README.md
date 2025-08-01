@@ -78,6 +78,7 @@ Happy coding!
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DakshVR/DS-Algo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/DakshVR/DS-Algo/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/DakshVR/DS-Algo/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/DakshVR/DS-Algo/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3533-snake-in-matrix](https://github.com/DakshVR/DS-Algo/tree/master/3533-snake-in-matrix) |
 | [3723-sum-of-good-numbers](https://github.com/DakshVR/DS-Algo/tree/master/3723-sum-of-good-numbers) |
@@ -104,11 +105,13 @@ Happy coding!
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshVR/DS-Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/DakshVR/DS-Algo/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/DakshVR/DS-Algo/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Matrix
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/DakshVR/DS-Algo/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/DakshVR/DS-Algo/tree/master/1972-rotating-the-box) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/DakshVR/DS-Algo/tree/master/2585-delete-greatest-value-in-each-row) |
 ## String
 |  |
 | ------- |
@@ -157,6 +160,7 @@ Happy coding!
 ## Simulation
 |  |
 | ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/DakshVR/DS-Algo/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3336-water-bottles-ii](https://github.com/DakshVR/DS-Algo/tree/master/3336-water-bottles-ii) |
 | [3533-snake-in-matrix](https://github.com/DakshVR/DS-Algo/tree/master/3533-snake-in-matrix) |
 ## Sorting
@@ -167,6 +171,7 @@ Happy coding!
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DakshVR/DS-Algo/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DakshVR/DS-Algo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DakshVR/DS-Algo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/DakshVR/DS-Algo/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Enumeration
 |  |
 | ------- |
