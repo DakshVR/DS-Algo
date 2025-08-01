@@ -100,6 +100,7 @@ Happy coding!
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/DakshVR/DS-Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Matrix
 |  |
@@ -198,6 +199,7 @@ Happy coding!
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/DakshVR/DS-Algo/tree/master/0110-balanced-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/DakshVR/DS-Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Happy coding!
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/DakshVR/DS-Algo/tree/master/0110-balanced-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/DakshVR/DS-Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -216,4 +219,16 @@ Happy coding!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DakshVR/DS-Algo/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/DakshVR/DS-Algo/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/DakshVR/DS-Algo/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/DakshVR/DS-Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
