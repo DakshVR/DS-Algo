@@ -108,6 +108,7 @@ Happy coding!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/DakshVR/DS-Algo/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
@@ -134,6 +135,7 @@ Happy coding!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DakshVR/DS-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DakshVR/DS-Algo/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
 | [1972-rotating-the-box](https://github.com/DakshVR/DS-Algo/tree/master/1972-rotating-the-box) |
 ## Sliding Window
