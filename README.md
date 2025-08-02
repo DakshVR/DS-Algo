@@ -67,6 +67,7 @@ Happy coding!
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [1127-last-stone-weight](https://github.com/DakshVR/DS-Algo/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/DakshVR/DS-Algo/tree/master/1184-car-pooling) |
 | [1293-three-consecutive-odds](https://github.com/DakshVR/DS-Algo/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshVR/DS-Algo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -104,6 +105,7 @@ Happy coding!
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DakshVR/DS-Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/DakshVR/DS-Algo/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/DakshVR/DS-Algo/tree/master/1184-car-pooling) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DakshVR/DS-Algo/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DakshVR/DS-Algo/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Matrix
@@ -160,6 +162,7 @@ Happy coding!
 ## Simulation
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/DakshVR/DS-Algo/tree/master/1184-car-pooling) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DakshVR/DS-Algo/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3336-water-bottles-ii](https://github.com/DakshVR/DS-Algo/tree/master/3336-water-bottles-ii) |
 | [3533-snake-in-matrix](https://github.com/DakshVR/DS-Algo/tree/master/3533-snake-in-matrix) |
@@ -168,6 +171,7 @@ Happy coding!
 | ------- |
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
+| [1184-car-pooling](https://github.com/DakshVR/DS-Algo/tree/master/1184-car-pooling) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DakshVR/DS-Algo/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DakshVR/DS-Algo/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DakshVR/DS-Algo/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -180,6 +184,7 @@ Happy coding!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DakshVR/DS-Algo/tree/master/0238-product-of-array-except-self) |
+| [1184-car-pooling](https://github.com/DakshVR/DS-Algo/tree/master/1184-car-pooling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshVR/DS-Algo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
