@@ -226,11 +226,13 @@ Happy coding!
 | ------- |
 | [0002-add-two-numbers](https://github.com/DakshVR/DS-Algo/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DakshVR/DS-Algo/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/DakshVR/DS-Algo/tree/master/0024-swap-nodes-in-pairs) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/DakshVR/DS-Algo/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DakshVR/DS-Algo/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/DakshVR/DS-Algo/tree/master/0024-swap-nodes-in-pairs) |
 ## Design
 |  |
 | ------- |
