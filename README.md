@@ -119,6 +119,7 @@ Happy coding!
 | ------- |
 | [0125-valid-palindrome](https://github.com/DakshVR/DS-Algo/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+| [0782-jewels-and-stones](https://github.com/DakshVR/DS-Algo/tree/master/0782-jewels-and-stones) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/DakshVR/DS-Algo/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
@@ -136,6 +137,7 @@ Happy coding!
 | ------- |
 | [0001-two-sum](https://github.com/DakshVR/DS-Algo/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+| [0782-jewels-and-stones](https://github.com/DakshVR/DS-Algo/tree/master/0782-jewels-and-stones) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DakshVR/DS-Algo/tree/master/2215-finding-3-digit-even-numbers) |
