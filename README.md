@@ -63,6 +63,7 @@ Happy coding!
 | [0238-product-of-array-except-self](https://github.com/DakshVR/DS-Algo/tree/master/0238-product-of-array-except-self) |
 | [0456-132-pattern](https://github.com/DakshVR/DS-Algo/tree/master/0456-132-pattern) |
 | [0506-relative-ranks](https://github.com/DakshVR/DS-Algo/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/DakshVR/DS-Algo/tree/master/0575-distribute-candies) |
 | [0830-largest-triangle-area](https://github.com/DakshVR/DS-Algo/tree/master/0830-largest-triangle-area) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
@@ -137,6 +138,7 @@ Happy coding!
 | ------- |
 | [0001-two-sum](https://github.com/DakshVR/DS-Algo/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/DakshVR/DS-Algo/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/DakshVR/DS-Algo/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/DakshVR/DS-Algo/tree/master/0782-jewels-and-stones) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/DakshVR/DS-Algo/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0952-word-subsets](https://github.com/DakshVR/DS-Algo/tree/master/0952-word-subsets) |
