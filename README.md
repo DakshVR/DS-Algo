@@ -70,6 +70,7 @@ Happy coding!
 | [1127-last-stone-weight](https://github.com/DakshVR/DS-Algo/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/DakshVR/DS-Algo/tree/master/1184-car-pooling) |
 | [1293-three-consecutive-odds](https://github.com/DakshVR/DS-Algo/tree/master/1293-three-consecutive-odds) |
+| [1310-watering-plants](https://github.com/DakshVR/DS-Algo/tree/master/1310-watering-plants) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DakshVR/DS-Algo/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DakshVR/DS-Algo/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1677-matrix-diagonal-sum](https://github.com/DakshVR/DS-Algo/tree/master/1677-matrix-diagonal-sum) |
@@ -167,6 +168,7 @@ Happy coding!
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/DakshVR/DS-Algo/tree/master/1184-car-pooling) |
+| [1310-watering-plants](https://github.com/DakshVR/DS-Algo/tree/master/1310-watering-plants) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/DakshVR/DS-Algo/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3336-water-bottles-ii](https://github.com/DakshVR/DS-Algo/tree/master/3336-water-bottles-ii) |
 | [3533-snake-in-matrix](https://github.com/DakshVR/DS-Algo/tree/master/3533-snake-in-matrix) |
